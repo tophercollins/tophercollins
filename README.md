@@ -7,4 +7,4 @@ An avid student of Python, in particular Machine Learning & Data Science.
 
 - [D&D Race Classification](https://tophercollins.github.io/dnd-race-classification.html), a classification problem using Scikit-learn library and models.
 
-See my [PORTFOLIO](https://tophercollins.github.io/)
+For a full catalogue of projects, see my [Portfolio](https://tophercollins.github.io/)
