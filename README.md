@@ -5,6 +5,7 @@ I'm a Dungeons & Dragons nerd who utilises programming for building passion proj
 
 Currently furthuring knowledge in Machine Learning & Data Science.
 
+- [AirBnB Price Regression](https://tophercollins.github.io/airbnb-price-regression.html), a regression problem using Scikit-learn library and models.
 - [D&D Race Classification](https://tophercollins.github.io/dnd-race-classification.html), a classification problem using Scikit-learn library and models.
 
-For a full catalogue of projects, see my [Portfolio](https://tophercollins.github.io/)
+For a full catalogue of projects, see my [Portfolio](https://tophercollins.github.io/).
