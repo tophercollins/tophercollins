@@ -5,10 +5,10 @@ I'm a Data Science & Machine Learning Practioner with a wide range of experience
 - [AirBnB Price Regression](https://tophercollins.github.io/airbnb-price-regression.html), a regression problem using Scikit-learn library and models.
 - [D&D Race Classification](https://tophercollins.github.io/dnd-race-classification.html), a classification problem using Scikit-learn library and models.
 
-I'm also a Dungeons & Dragons / Tabletop RPG / Gaming nerd who utilises programming for building gaming relatd passion projects.
+I'm also a Dungeons & Dragons / Tabletop RPG / Gaming nerd who utilises programming for building gaming related passion projects.
 
 - [DnDwithToph.com](https://dndwithtoph.com/), a Dungeons & Dragons platform for online gameplay & adventures.
-- [Zombie Survival](https://tophercollins.github.io/zombie-survival.html), a turn based survival board game.
+- [Zombie Survival](https://tophercollins.github.io/zombie-survival.html), a turn based survival game.
 
 
 For a full catalogue of projects, see my [Portfolio](https://tophercollins.github.io/).
