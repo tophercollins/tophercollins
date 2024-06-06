@@ -1,7 +1,8 @@
 
 I'm a Data Science & Machine Learning Practioner with a wide range of experience in Tensforflow, Scikit-Learn and top performing models such as Catboost, XGBoost and LightGBM.
 
-- [Smoker Binary Prediction](https://tophercollins.github.io/smoker-binary-classification.html), a classification prediction using Tenserflow, Catboost, XGBoost, LightGBM for an ensemble stacking classfier model.
+- [D&D Statblock Generator](https://tophercollins.github.io/dnd-statblock-generator.html), fine-tuned Llama3 model for producing Dungeons & Dragons monster statblocks, live demo on HuggingFace.
+- [Smoker Binary Prediction](https://tophercollins.github.io/smoker-binary-classification.html), a classification prediction using Tenserflow, Catboost, XGBoost, & LightGBM for an ensemble stacking classfier model.
 - [D&D Race Classification](https://tophercollins.github.io/dnd-race-classification.html), a classification problem using Scikit-learn library and models.
 
 I'm also a Dungeons & Dragons / Tabletop RPG / Gaming nerd who utilises programming for building gaming related passion projects.
