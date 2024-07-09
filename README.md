@@ -16,4 +16,4 @@ I'm also a Dungeons & Dragons / Tabletop RPG / Gaming nerd who utilises programm
 - [Zombie Survival](https://tophercollins.github.io/zombie-survival.html), a turn based survival game written in Python focusing on Object Orientated Programming.
 
 
-For a full catalogue of projects, see my [Portfolio](https://tophercollins.github.io/).
+For a more detailled view of projects, see my [Portfolio](https://tophercollins.github.io/).
