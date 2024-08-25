@@ -1,6 +1,7 @@
 
-I'm a Data Science & Machine Learning Practioner with a wide range of experience in Tensforflow, Scikit-Learn and top performing models such as Catboost, XGBoost and LightGBM.
+I'm a Data Analyst & Data Science with a experience in Python, R, SQl, TensforFlow, & Scikit-Learn.
 
+- [EIFO Data Extraction], a Python script to web scrape EIFO Country Risk & Cover Policies and export to Excel.
 - [Automated Scorecard Processing Handwritten Character Recognition](https://tophercollins.github.io/handwritten-character-recognition.html), Computer Vison model for custom EMNIST character recognition including artificially constructed strikethrough characters.
 - [Smoker vs. Non-Smoker Classification](https://tophercollins.github.io/smoker-classification.html), a classification model using Tenserflow, Catboost, XGBoost, & LightGBM for an ensemble stacking classfier.
 - [Fine-tuning LLM for RPG Statblocks](https://tophercollins.github.io/rpg-statblock-generator.html), fine-tuned Llama3 model for producing Dungeons & Dragons monster statblocks, dataset and model deployed on Hugging Face.
@@ -10,9 +11,9 @@ I'm a Data Science & Machine Learning Practioner with a wide range of experience
 - **Transfer Learning in Food Image Classification**, computer vision model on Food101 dataset utilizing EfficientNetV2 transfer learning.
 - [D&D Race Classification](https://tophercollins.github.io/dnd-race-classification.html), a classification problem using Scikit-learn library and models.
 
-I'm also a Dungeons & Dragons / Tabletop RPG / Gaming nerd who utilises programming for building gaming related passion projects.
+I'm also a Dungeons & Dragons / Tabletop RPG / Gaming Nerd who uses programming for building gaming related passion projects.
 
-- [DnDwithToph.com](https://dndwithtoph.com/), a Dungeons & Dragons platform for online gameplay & adventures using a Flask framework.
+- [DnDwithToph.com](https://dndwithtoph.com/), a Dungeons & Dragons platform for online gameplay & adventures built using a Flask framework.
 - [Zombie Survival](https://tophercollins.github.io/zombie-survival.html), a turn based survival game written in Python focusing on Object Orientated Programming.
 
 
