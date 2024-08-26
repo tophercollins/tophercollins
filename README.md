@@ -1,7 +1,7 @@
 
 I'm a Data Analyst & Data Science with a experience in Python, R, SQl, TensforFlow, & Scikit-Learn.
 
-- [EIFO Data Extraction], a Python script to web scrape EIFO Country Risk & Cover Policies and export to Excel.
+- [EIFO Data Extraction](https://tophercollins.github.io/eifo-data-extraction.html), a Python script to web scrape EIFO Country Risk & Cover Policies and export to Excel.
 - [Automated Scorecard Processing Handwritten Character Recognition](https://tophercollins.github.io/handwritten-character-recognition.html), Computer Vison model for custom EMNIST character recognition including artificially constructed strikethrough characters.
 - [Smoker vs. Non-Smoker Classification](https://tophercollins.github.io/smoker-classification.html), a classification model using Tenserflow, Catboost, XGBoost, & LightGBM for an ensemble stacking classfier.
 - [Fine-tuning LLM for RPG Statblocks](https://tophercollins.github.io/rpg-statblock-generator.html), fine-tuned Llama3 model for producing Dungeons & Dragons monster statblocks, dataset and model deployed on Hugging Face.
