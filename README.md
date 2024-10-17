@@ -1,5 +1,5 @@
 
-I'm a Data Analyst & Data Science with a experience in Python, R, SQl, TensforFlow, & Scikit-Learn.
+I'm a Data Analyst & Data Scientist with a experience in Python, R, SQl, TensforFlow, & Scikit-Learn.
 
 - [EIFO Data Extraction](https://tophercollins.github.io/eifo-data-extraction.html), a Python script to web scrape EIFO Country Risk & Cover Policies and export to Excel.
 - [Automated Scorecard Processing Handwritten Character Recognition](https://tophercollins.github.io/handwritten-character-recognition.html), Computer Vison model for custom EMNIST character recognition including artificially constructed strikethrough characters.
