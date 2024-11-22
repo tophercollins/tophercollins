@@ -1,6 +1,7 @@
 
-I'm a Data Analyst & Data Scientist with a experience in Python, R, SQl, TensforFlow, & Scikit-Learn.
+I'm a Data Analyst & Data Scientist with a experience in Python, R, SQL, TensforFlow, & Scikit-Learn.
 
+- [Red Card / Goal Analysis](https://tophercollins.github.io/red-card-goal-analysis.html), Exploratory Data Analysis of the impact of Red Cards on the Number of Goals scored across 5 years of the major European Football Leagues, using Python with Pandas and Matplotlib libraries.
 - [EIFO Data Extraction](https://tophercollins.github.io/eifo-data-extraction.html), a Python script to web scrape EIFO Country Risk & Cover Policies and export to Excel.
 - [Automated Scorecard Processing Handwritten Character Recognition](https://tophercollins.github.io/handwritten-character-recognition.html), Computer Vison model for custom EMNIST character recognition including artificially constructed strikethrough characters.
 - [Smoker vs. Non-Smoker Classification](https://tophercollins.github.io/smoker-classification.html), a classification model using Tenserflow, Catboost, XGBoost, & LightGBM for an ensemble stacking classfier.
