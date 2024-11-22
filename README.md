@@ -1,5 +1,5 @@
 
-I'm a Data Analyst & Data Scientist with a experience in Python, R, SQL, TensforFlow, & Scikit-Learn.
+I'm a Data Analyst & Data Scientist with experience in Python, R, SQL, TensorFlow, & Scikit-Learn.
 
 - [Red Card / Goal Analysis](https://tophercollins.github.io/red-card-goal-analysis.html), Exploratory Data Analysis of the impact of Red Cards on the Number of Goals scored across 5 years of the major European Football Leagues, using Python with Pandas and Matplotlib libraries.
 - [EIFO Data Extraction](https://tophercollins.github.io/eifo-data-extraction.html), a Python script to web scrape EIFO Country Risk & Cover Policies and export to Excel.
