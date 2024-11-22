@@ -10,11 +10,11 @@ I'm a Data Analyst & Data Scientist with a experience in Python, R, SQL, Tensfor
 - **Bitcoin Price Forecasting**, implemented time series models (Conv1D, Bidirectional LSTM, GRU) for Bitcoin price forecasting, using metrics (Loss, MAE, MSE) to assess performance.
 - **Structured Medical Text Classification with NLP**, a multi-class model utilizing Universal Sentence Encoder, Conv1D character embedding, and text position features to classify medical literature sentences.
 - **Transfer Learning in Food Image Classification**, computer vision model on Food101 dataset utilizing EfficientNetV2 transfer learning.
-- [D&D Race Classification](https://tophercollins.github.io/dnd-race-classification.html), a classification problem using Scikit-learn library and models.
 
 I'm also a Dungeons & Dragons / Tabletop RPG / Gaming Nerd who uses programming for building gaming related passion projects.
 
 - [DnDwithToph.com](https://dndwithtoph.com/), a Dungeons & Dragons platform for online gameplay & adventures built using a Flask framework.
+- [D&D Race Classification](https://tophercollins.github.io/dnd-race-classification.html), a classification problem using Scikit-learn library and models.
 - [Zombie Survival](https://tophercollins.github.io/zombie-survival.html), a turn based survival game written in Python focusing on Object Orientated Programming.
 
 
