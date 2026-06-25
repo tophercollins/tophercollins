@@ -63,5 +63,5 @@ A long-time Dungeons & Dragons / tabletop-RPG nerd — which is where most of my
 ## 📫 Find me
 
 - 🌐 **Portfolio:** [tophercollins.github.io](https://tophercollins.github.io/)
-- 💼 **LinkedIn:** [christopher-collins](https://www.linkedin.com/in/christopher-collins-47419555/)
+- 💼 **LinkedIn:** [topher-collins](https://www.linkedin.com/in/topher-collins-47419555/)
 - ✍️ **Medium:** [@tophercollins](https://medium.com/@tophercollins/)
